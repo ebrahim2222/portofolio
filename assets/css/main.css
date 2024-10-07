@@ -4702,9 +4702,9 @@ input, select, textarea {
 		#experience-section{
 			background-color: #ffffff;
 			position: relative;
-			margin: 1rem auto;
+			margin: 1rem 2rem;
 			padding: 1rem 2rem;
-			width: calc(100% - 0rem);
+			width: calc(100% - 4rem);
 			max-width: 72rem;
 			z-index: 2;
 	
