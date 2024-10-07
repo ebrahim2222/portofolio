@@ -4688,22 +4688,21 @@ input, select, textarea {
 
 	}
 	#experience-section{
+		background-color: #ffffff;
+		position: relative;
+		margin: 1rem auto;
+		padding: 2rem 8rem;	
 		max-width: 70%;
-		margin: 50px auto;
-		background-color: white;
-		padding: 20px;
-		box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
 
 	}
 	@media screen and (max-width:756px) {
 		#experience-section{
-			display: flex;
-			flex-direction: column;
-			align-items: center;
+			background-color: #ffffff;
+			position: relative;
+			margin: 1rem auto;
+			padding: 2rem 2rem;	
 			max-width: 100%;
-			margin: 1rem ;
-			background-color: #e2e2e2
 		}
 		
 	}
